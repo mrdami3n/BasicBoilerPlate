@@ -1,4 +1,4 @@
-# Basic BoilerPlate
+# Basic Boiler Plate
 
 This is a basic boilerplate for a Node.js project using TypeScript.
 
@@ -7,11 +7,33 @@ This is a basic boilerplate for a Node.js project using TypeScript.
 ### Prerequisites
 
 - Node.js
-- npm (or yarn)
+- npm
 
 ### Installation
 
-1. Clone the repository
+Clone the repository
    ```bash
-   git clone https://github.com/your-username/my-typescript-project.git
-   cd my-typescript-project
+   git clone https://github.com/mrdami3n/BasicBoilerPlate
+   cd Basic Boilerplate
+
+## Running the Project
+
+#Install dependencies:
+
+```bash
+npm install
+
+#Build the project:
+
+```bash
+npm run build
+
+#Start the project:
+
+```bash
+npm start
+
+#For development mode:
+
+```bash
+npm run dev
