@@ -4,8 +4,6 @@ This is a basic boilerplate for a Node.js project using TypeScript.
 
 ## Getting Started
 
-## Prerequisites
-
 - Node.js
 - npm
 
