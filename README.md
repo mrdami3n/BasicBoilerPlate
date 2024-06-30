@@ -40,3 +40,10 @@ For development mode:
 ```bash
 npm run dev
 ```
+## Customizable 
+
+CSS and HTML Files have been added. Feel free to edit them as you wish.
+
+## License
+
+[MIT](https://choosealicense.com/licenses/mit/)
